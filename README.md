@@ -23,4 +23,5 @@ Django Todolist App based on ClassBasedModels including some Django REST API rou
 |Упорядочивание GET- запроса|http://127.0.0.1:8000/api/tasks?ordering=id|Записи в ответе будут упорядочены по полю id по возрастанию|
 
 Пример:
+
 ![image](https://user-images.githubusercontent.com/88885135/220046409-b7764f4d-ee32-4358-8efd-2d8e8fc6d712.png)
